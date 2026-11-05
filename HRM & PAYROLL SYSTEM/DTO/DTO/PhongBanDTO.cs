@@ -1,0 +1,9 @@
+﻿namespace HRMSystem.DTO
+{
+    public class PhongBanDTO
+    {
+        public int MaPB { get; set; }
+        public string TenPB { get; set; }
+        public string MoTa { get; set; }
+    }
+}
